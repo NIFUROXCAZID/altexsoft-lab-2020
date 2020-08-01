@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "task1": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\Study\\altexsoft-lab-2020\\tasks\\task1\\Lorem.txt\" /d3"
+    }
+  }
+}
